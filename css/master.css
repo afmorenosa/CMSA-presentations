@@ -78,6 +78,7 @@ table {
   font-size: 70px;
   font-weight: bold;
   text-align: center;
+  line-height: normal;
 }
 
 .Main_title {
@@ -87,6 +88,7 @@ table {
   font-weight: bold;
   text-align: center;
   margin: auto;
+  line-height: normal;
 }
 
 .bg_less {
@@ -101,7 +103,7 @@ table {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%,-45%);
 }
 
 .display_middle_left {
@@ -115,5 +117,19 @@ table {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(10%,-50%);
+  transform: translate(20%,-45%);
+}
+
+.display_top {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-90%);
+}
+
+.display_bottom {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 20%);
 }
