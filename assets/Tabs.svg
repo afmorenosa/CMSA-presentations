@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="44" viewBox="0 0 312 44">
+  <defs>
+    <clipPath id="a">
+      <path d="M-21.69,30.33a.51.51,0,0,0,.46.42H-5.67a.4.4,0,0,0,.38-.42L-6.64,16.77a.51.51,0,0,0-.46-.42h-6.36a.75.75,0,0,1-.7-.48l-.55-1.66c-.09-.25-.28-.37-.66-.37h-7.47a.39.39,0,0,0-.37.42Z" fill="none"/>
+    </clipPath>
+    <clipPath id="b">
+      <path d="M-5.17,28v4.56c1.55,0,3.74-1,3.74-2.28S-3.16,28-5.17,28Z" fill="none"/>
+    </clipPath>
+    <clipPath id="c">
+      <path d="M-17.43,21.07a60.74,60.74,0,0,1-1.36,6.76,21.75,21.75,0,0,1,8.56-1.61c5,0,8.36-4.62,8.82-5.17Z" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="d" data-name="Degradado sin nombre 24" x1="948.5" y1="7" x2="948.5" y2="39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c6c6c6"/>
+      <stop offset="1" stop-color="#f4f4f4"/>
+    </linearGradient>
+    <linearGradient id="e" data-name="Degradado sin nombre 98" x1="226.5" y1="10.5" x2="226.5" y2="38.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6302e"/>
+      <stop offset="0.5" stop-color="#ff5c62"/>
+      <stop offset="0.5" stop-color="#f25653"/>
+    </linearGradient>
+    <linearGradient id="f" data-name="Degradado sin nombre 32" x1="948.5" y1="38.5" x2="948.5" y2="10.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <title>Editor</title>
+  <rect x="-27" y="-23" width="1920" height="1030" fill="#f0f0f0"/>
+  <rect x="-27" y="-23" width="1920" height="29" fill="#fff"/>
+  <text transform="translate(0 -3.25)" font-size="15" font-family="SegoeUI, Segoe UI">Nuevos termogramas</text>
+  <rect x="-27" y="6" width="31" height="973" fill="#f0f0f0"/>
+  <g>
+    <g clip-path="url(#a)">
+      <image width="34" height="34" transform="translate(-26 13)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAACXBIWXMAAAsSAAALEgHS3X78AAABtklEQVRYR6VXWY6FMAxL0NwRbkg5ZeZnioJxljKW0OuSto6T1ypiZvL1G2NYZdP91MykgzFGz/APx3FoZeNRElklgOgSColUBOY61fqcDhlKhJFgdmZGiagqncsIbThwXdfjxJlMXXh7XId7ezwUQSX83AoZkWfIOsq8FJmoSPi/nrfxv6wtwkN/K+InIxIrqkSK+LZXRs2sRcL3K0Ls4IpMOzRdEpFNtS4kMtFRiM1l4yxffpgB836lPe+R2fbz0QVIFcG4rnrOwpo5KQKKTETGFSGmAirAkldERM/zvHeMWHdDhYcgoWy+TFYP9MJL3kHm2NZ5PTFXopBVeZBh2/e9ZFJJP2XPpM/Wi0Boqo2Yh57A7H/Bco5EJKOxbNxjE4HHJ5CdwYcEVekc7vFSpCt/lQfYr4i9LjRVDbMd5/4TJpy/FcnC41F5xlCpchyHPkITkcE8wDE27vsd0Lcmw9yYhQjbHpHNdL4sJ7KHD8c7oWQkRIJ7BEOE3kRftMaPR0hLzqy8QESKTOAclhRl7SvCCeHG+B5FiKq91hX/Yt9ISIas5Gwp4lEV5wyfi/BVeHKdQxl+AXFn7zsELhhcAAAAAElFTkSuQmCC"/>
+    </g>
+    <g opacity="0.4" style="isolation: isolate">
+      <g clip-path="url(#b)">
+        <image width="12" height="7" transform="translate(-11 27)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAHCAYAAAA8sqwkAAAACXBIWXMAAAsSAAALEgHS3X78AAAAR0lEQVQYV5XPMRJAQAAEwRkiCZEqv/EAv/JvtZKLjjpu4u1gTUJPw9eg7gHUWd3VTV2aQB2BFTiBA5hq4NuHAkly/QKtuk/ftooOdPrFU68AAAAASUVORK5CYII="/>
+      </g>
+    </g>
+    <g clip-path="url(#c)">
+      <image width="29" height="11" transform="translate(-26 18)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAALCAYAAACDHIaJAAAACXBIWXMAAAsSAAALEgHS3X78AAAAvklEQVQ4T62TMQ7CMAxFX8QJ2FgQgvufCSHEyMYGJWaITD/GbQDxpciO4/jVaVLMjD9oNxHfZ8HyI3QK4jKxh7j4CbQHgFZcC0X/qMkZtAeJG3pAn588WMxsDpIdgxbK1qtYC6MCZ+/UwVkXqsqrdO65AznsOdfj3SYFAO5JPNpbiOnQ/cD7P92I78nxONUfkljmXxBlF2nNWHDB+5dfme44hUTNPZkVI6jSYK64aRYS1XunS1rHAIUG+wqQ6QHGX3oGKKd9vwAAAABJRU5ErkJggg=="/>
+    </g>
+  </g>
+  <rect x="4" y="6" width="1889" height="973" fill="#c6c6c6"/>
+  <rect x="5" y="7" width="1887" height="971" fill="#f0f0f0"/>
+  <rect x="5" y="7" width="1887" height="32" fill="url(#d)"/>
+  <g>
+    <rect x="154.5" y="10.5" width="144" height="28" rx="2.5" fill="url(#e)"/>
+    <path d="M296,11a2,2,0,0,1,2,2V36a2,2,0,0,1-2,2H157a2,2,0,0,1-2-2V13a2,2,0,0,1,2-2H296m0-1H157a3,3,0,0,0-3,3V36a3,3,0,0,0,3,3H296a3,3,0,0,0,3-3V13a3,3,0,0,0-3-3Z" fill="#bcbcbc"/>
+  </g>
+  <g>
+    <path d="M5.5,38.5v-3h5V13A2.5,2.5,0,0,1,13,10.5H152a2.5,2.5,0,0,1,2.5,2.5V35.5h1737v3Z" fill="url(#f)"/>
+    <path d="M152,11a2,2,0,0,1,2,2V36H1891v2H6V36h5V13a2,2,0,0,1,2-2H152m0-1H13a3,3,0,0,0-3,3V35H5v4H1892V35H155V13a3,3,0,0,0-3-3Z" fill="#bcbcbc"/>
+  </g>
+  <text transform="translate(18 27.75)" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan letter-spacing="-0.02em">P</tspan><tspan x="8.84" y="0">anel 1 | </tspan><tspan x="64.3" y="0" letter-spacing="-0.02em">P</tspan><tspan x="73.14" y="0">asada A</tspan></text>
+  <text transform="translate(162 27.75)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan letter-spacing="-0.03em">P</tspan><tspan x="7.89" y="0">anel 2 | </tspan><tspan x="59.49" y="0" letter-spacing="-0.03em">P</tspan><tspan x="67.38" y="0">asada A</tspan></text>
+</svg>
