@@ -109,33 +109,62 @@ table {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%,-45%);
 }
 
 .display_middle_left {
     position: absolute;
     top: 50%;
-    left: 50%;
-    transform: translate(-120%,-45%);
+    left: 0%;
+    transform: translate(25%,-45%);
 }
 
 .display_middle_right {
     position: absolute;
     top: 50%;
-    left: 50%;
-    transform: translate(20%,-45%);
+    right: 0%;
+    transform: translate(-25%,-45%);
 }
 
 .display_top {
     position: absolute;
-    top: 50%;
+    top: 0%;
     left: 50%;
-    transform: translate(-50%,-90%);
+    transform: translate(-50%,25%);
+}
+
+.display_top_right {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    transform: translate(-25%, 50%);
 }
 
 .display_bottom {
     position: absolute;
-    top: 50%;
+    top: 90%;
     left: 50%;
-    transform: translate(-50%, 20%);
+    transform: translate(-50%, -50%);
+}
+
+.display_bottom_left {
+    position: absolute;
+    top: 90%;
+    left: 0%;
+    transform: translate(25%, -100%);
+}
+
+.display_bottom_right {
+    position: absolute;
+    top: 90%;
+    right: 0%;
+    transform: translate(-25%, -100%);
+}
+
+ul.square {
+  list-style-type: square;
+}
+
+ul.square li{
+  margin-bottom: 20px;
 }
